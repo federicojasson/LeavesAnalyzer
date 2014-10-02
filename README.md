@@ -1,4 +1,12 @@
-LeavesAnalyzer
+Leaves Analyzer
 ==============
 
-A Java application to segment leaves and to perform other related tasks.
+OpenCV 2.4.5 is needed to use Leaves Analyzer. No other version will work.
+Remember to set the system PATH correctly.
+To download OpenCV, visit http://opencv.org/downloads.html
+
+
+Observation
+==============
+
+The application has problems loading files which paths contain non-ASCII characters.
